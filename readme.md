@@ -1,4 +1,4 @@
-** NOTICE **
+# NOTICE
 This project is considered outdated, so all code cannot ensured to work. As of 2023, there has been a formal integration surronding this project. Please, use this repo only for reference... or some last-ditch attempt. Anyway, please use this instead: https://ftc-docs.firstinspires.org/en/latest/programming_resources/index.html#apriltag-programming
 
 
